@@ -15,9 +15,9 @@
 #define HEIGHT 240
 
 // background color (RGB)
-#define R 96
-#define G 148
-#define B 8
+#define R 255
+#define G 255
+#define B 255
 
 // delay until the logo starts being visible (unit: frames) (60 frames = 1 sec)
 #define ANIMDELAY 60
